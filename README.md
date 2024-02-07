@@ -1,5 +1,5 @@
 - # Hello Everybody I am Mirsaid👋 
-- 👀 I’m interested in overall programming espaically C++ and Data Science and other
+- 👀 I’m interested in overall programming and its algorithms
 - 🌱 I’m currently learning Data Science, Machine learning
 - 💞️ I’m studying at INHA university in Korea at the moment
 - 📫 How to reach me: Instagram: mirsaid_kr
