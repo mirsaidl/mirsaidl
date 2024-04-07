@@ -23,8 +23,6 @@ As a devoted *Computer Engineering* student, I'm enthusiastic about expanding my
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mirsaidl&label=Profile%20views&color=0e75b6&style=for-the-badge&color=CD5C5C&label=PROFILE+VIEWS" alt="UbaydullohML" /> </p>
 
-### Check out my [portfolio](https://mirsaidl.github.io/) for more!
-
 ## 📫 How to reach me
 Feel free to connect with me. I'm always eager to collaborate and learn from each other. 
 
