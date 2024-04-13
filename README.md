@@ -1,14 +1,15 @@
 # Hi there, I'm @mirsaidl 👋
 
 ## :man_technologist: About me
-As a devoted *Computer Engineering* student, I'm enthusiastic about expanding my skills and staying updated with the latest technologies. I'm eager to experiment with emerging trends in the field and creatively apply them to push my boundaries.
+As a devoted *AI Engineering* student, I'm enthusiastic about expanding my skills and staying updated with the latest technologies. I'm eager to experiment with emerging trends in the field and creatively apply them to push my boundaries.
 
 
 ## 👀 My Interests
-- Computer Engineering
 - Data Science
 - Artificial Intelligence
 - Machine Learning & Deep Learning
+- Natural Language Processing
+- Computer Vision
 
 ## 🌱 I'm currently learning
 - Data Structures and Algorithms
@@ -16,6 +17,7 @@ As a devoted *Computer Engineering* student, I'm enthusiastic about expanding my
 - Deep Learning
 - Artificial Intelligence
 - Linear Algebra
+- Computer Vision/NLP
 
 ## :hammer_and_wrench: Technologies and Tools
 <h3 align="left">Languages and Tools:</h3>
