@@ -1,7 +1,7 @@
 # Hi there, I'm @mirsaidl 👋
 
 ## :man_technologist: About me
-As a devoted *AI Engineering* student, I'm enthusiastic about expanding my skills and staying updated with the latest technologies. I'm eager to experiment with emerging trends in the field and creatively apply them to push my boundaries.
+As a devoted *AI Engineer*, I'm enthusiastic about expanding my skills and staying updated with the latest technologies. I'm eager to experiment with emerging trends in the field and creatively apply them to push my boundaries.
 
 
 ## 👀 My Interests
