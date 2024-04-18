@@ -26,7 +26,7 @@ As a devoted *AI Engineer*, I'm enthusiastic about expanding my skills and stayi
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mirsaidl&label=Profile%20views&color=0e75b6&style=for-the-badge&color=CD5C5C&label=PROFILE+VIEWS" alt="mirsaidl" /> </p>
 
 ## 📫 How to reach me
-Feel free to connect with me. I'm always eager to collaborate and learn from each other. 
+Feel free to connect with me. I'm always eager to collaborate and learn from each other.
 
 - Email: abdurasulovm149@gmail.com
 - LinkedIn: [Mirsaid](www.linkedin.com/in/mirsaid-abdurasulov-83b0242b2)
