@@ -31,6 +31,8 @@ Feel free to connect with me. I'm always eager to collaborate and learn from eac
 - Email: abdurasulovm149@gmail.com
 - LinkedIn: [Mirsaid](www.linkedin.com/in/mirsaid-abdurasulov-83b0242b2)
 ### Stats
-[![Mirsaid's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirsaidl&&langs_count=8&exclude_repo=Data-Science,ML_projects,DeepLearningNNCrafts&hide=Jupyter-Notebook&layout=compact&theme=vue-dark)](https://github.com/mirsaidl)
+[![Mirsaid's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirsaidl&langs_count=8&exclude_repo=Data-Science,ML_projects,DeepLearningNNCrafts&hide=Jupyter%20Notebook&layout=compact&theme=vue-dark)](https://github.com/mirsaidl)
+
+
 
 
